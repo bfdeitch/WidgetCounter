@@ -1,3 +1,3 @@
 # WidgetCounter
 
-![alt tag](http://imgur.com/PgBzATY)
+![Screenshot](http://imgur.com/PgBzATY)
